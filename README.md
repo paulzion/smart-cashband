@@ -1,6 +1,6 @@
 # SMART CASHBAND: RFID AND BIOMETRIC SECURITY WITH BLOCKCHAIN INTEGRATION
 
-A secure physical unlocking and blockchain-logged authentication system that combines RFID, fingerprint biometrics, and ESP32-controlled hardware with blockchain for tamper-proof tracking. This project is ideal for any government or organizational use where secure asset handling is required — not limited to salary distribution.
+A secure physical unlocking and blockchain-logged authentication system that combines **RFID, fingerprint biometrics**, and **ESP32-controlled hardware** with **blockchain** for tamper-proof tracking. This project is ideal for any **government or organizational use** where secure asset handling is required — not limited to salary distribution.
 
 ---
 
@@ -187,15 +187,50 @@ This project is licensed under the MIT License — free to use, modify, and dist
 
 ---
 
+## 🚀 Future Enhancements
+
+1. 🤖 **AI-based Estimation System**
+   Integrate AI to estimate infrastructure project costs (e.g., flyovers) to detect and prevent fake or inflated budget estimations by corrupt officials.
+
+2. 🌐 **Web3 Transparency Portal**
+   Develop a decentralized website where all **Business-to-Government (B2G)** transactions are transparently logged on the blockchain and viewable by the public for maximum accountability.
+
+3. 🎥 **Smart Contract Video Recording**
+   Mandate that every physical contract or transaction is videographed, uploaded, and linked to the corresponding blockchain entry. The video can be viewed on the portal by the general public.
+
+4. 🕵️‍♂️ **Anonymous Grievance Blockchain System**
+   Create a secure grievance reporting mechanism for citizens to anonymously report bribery or harassment by officials. The blockchain ensures tamper-proof records of all complaints.
+
+5. 🧑‍💼 **Privileged Access Web3 Interface**
+   The Web3 site will support multi-role access levels:
+
+   | Role                 | Description                                  |
+   | -------------------- | -------------------------------------------- |
+   | Public               | Can view transactions and contract videos    |
+   | Admin                | Oversees all registered modules              |
+   | Worker (under Admin) | Performs on-ground contract duties           |
+   | Government Executive | Authorizes and validates major actions       |
+   | Contractor           | Registered bidder and executor of contracts  |
+   | Government Official  | Provides citizen services and utility access |
+
+6. 💰 **Denomination-wise Rupee Counting at Exit Points**
+   Mandate denomination-wise counting and logging of Rupee notes when public users or officials exit government offices. Ensures strict accountability and makes unrecorded cash movement traceable.
+
+These enhancements push the SMART CASHBAND project from hardware-based unlocking to full-scale **anti-corruption infrastructure with AI and blockchain**, serving citizens and officials alike.
+
+---
+
 ## 📫 Contact
 
 For inquiries, improvements, or collaborations, contact:
-📧 [paulzion0234@gmail.com](mailto:paulzion0234@gmail.com)
+📧 [paulzion0234@gmail.com]
 
 ---
 
 ## 📄 Publication
 
-This project has been published in the International Research Journal of Modernization in Engineering Technology and Science (IRJMETS).
+This project has been published in the **International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)**.
 
+---
 
+> “Designed for transparency. Built for security. Ready for any government asset distribution mission.”
