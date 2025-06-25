@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.cache/
+artifacts/
+coverage/
+build/
+*.log
+
+# PlatformIO
+.pio/
+.vscode/
+*.elf
+*.bin
+*.map
+*.d
+*.pyc
+
+# OS/system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Misc
+*.out
+*.tmp
