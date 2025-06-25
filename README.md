@@ -1,6 +1,6 @@
 # SMART CASHBAND: RFID AND BIOMETRIC SECURITY WITH BLOCKCHAIN INTEGRATION
 
-A secure physical unlocking and blockchain-logged authentication system that combines **RFID, fingerprint biometrics**, and **ESP32-controlled hardware** with **blockchain** for tamper-proof tracking. This project is ideal for any **government or organizational use** where secure asset handling is required — not limited to salary distribution.
+A secure physical unlocking and blockchain-logged authentication system that combines **RFID, fingerprint biometrics**, and **ESP32-controlled hardware** with **blockchain** for tamper-proof tracking. This project is ideal for any **government or organizational use** where secure asset handling is required not limited to salary distribution.
 
 ---
 
@@ -171,10 +171,10 @@ This project is licensed under the MIT License — free to use, modify, and dist
 
 ## 🙌 Credits
 
-* 🙏 My Lord and Savior **Jesus Christ** — for wisdom, grace, and guidance
+* 🙏 My Lord and Savior **Jesus Christ** for wisdom, grace, and guidance
 * 🧠 Developed by **Paul Zion D**
 * 🤝 Special thanks to my friends **Pratheep M** and **Rokeshkumar B** for their help and support
-* 👩‍🏫 **Nirmala B**, Assistant Professor, Computer Science and Engineering, DMI College of Engineering — for her guidance and mentorship
+* 👩‍🏫 **Nirmala B**, Assistant Professor, Computer Science and Engineering, DMI College of Engineering for her guidance and mentorship
 * 🏫 DMI College of Engineering, Chennai – under 2021 regulation
 * ❤️ Open-source community contributors
 
@@ -223,7 +223,7 @@ These enhancements push the SMART CASHBAND project from hardware-based unlocking
 ## 📫 Contact
 
 For inquiries, improvements, or collaborations, contact:
-📧 [paulzion0234@gmail.com]
+📧 paulzion0234@gmail.com
 
 ---
 
