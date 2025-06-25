@@ -58,7 +58,7 @@ smart-cashband/
 
 During testing, I encountered the **brownout detection error** on the ESP32, caused by insufficient power.
 
-✅ **Solution**: Use a reliable, original **Type-B USB charger** or cable that can supply stable current — especially when driving the relay and solenoid lock.
+✅ **Solution**: Use a reliable, original **Type-B USB charger** or cable that can supply stable current especially when driving the relay and solenoid lock.
 
 ---
 
